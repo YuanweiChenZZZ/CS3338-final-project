@@ -1,0 +1,7 @@
+**/*.log
+**/User_Manual/
+**/*-*.txt
+**/styles.css
+**/SDD_v*.docx
+**/SRS_v*.docx
+/**/README.md
